@@ -64,7 +64,7 @@ fun disp():Unit{
 }
 
 fun main(args:Array<String>){
-    var local_variable = "Local variable in function main"
+    var local_variable = "Local variable in function learning_kotlin.main"
     val n1 = 10.0
     val n2 = 12.0
     val n3 = 14.0

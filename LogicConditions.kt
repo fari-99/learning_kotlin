@@ -9,7 +9,7 @@ fun main(args:Array<String>){
      */
 
     /**
-     * Logic Operations IF
+     * Logic learning_kotlin.Operations IF
      * check conditions, if true, than run the code in block if
      */
 //    println("Please input your grade")
@@ -24,7 +24,7 @@ fun main(args:Array<String>){
 //    println("Your class grade is $classGrade")
 
     /**
-     * Logic Operations IF-ELSE
+     * Logic learning_kotlin.Operations IF-ELSE
      * check conditions,
      * if true, than run the code in block if
      * if false, than run the code in block else
